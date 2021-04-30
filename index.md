@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Witaj na mojej stronie
 
 You can use the [editor on GitHub](https://github.com/stawickiandrzej/stawickiandrzej.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
